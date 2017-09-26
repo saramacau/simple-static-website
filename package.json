@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/codefoster/simple-static-site/issues"
   },
-  "homepage": "https://github.com/codefoster/simple-static-site#readme"
+  "homepage": "https://github.com/codefoster/simple-static-site#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
 }
